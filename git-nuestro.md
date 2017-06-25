@@ -19,4 +19,3 @@ No nos dejes caer en *detached HEAD*
 y líbranos de *SVN*
 
 `git commit --amend`
-
